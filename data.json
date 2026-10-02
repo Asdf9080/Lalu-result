@@ -11,6 +11,48 @@
   "students": [
     {
       "session": "2025-26",
+      "regNo": "1701",
+      "roll": "22",
+      "name": "Akhald",
+      "father": "Aslam",
+      "mother": "Mehraj",
+      "dob": "01/01/2000",
+      "address": "Mzn",
+      "class": "1st",
+      "sec": "A",
+      "attendedClasses": 240,
+      "totalClasses": 250,
+      "attendance": "240/250",
+      "marks": {
+        "Hindi": {
+          "t1": 49,
+          "t2": 26,
+          "ft": 95
+        },
+        "English": {
+          "t1": 47,
+          "t2": 48,
+          "ft": 85
+        },
+        "Math": {
+          "t1": 34,
+          "t2": 42,
+          "ft": 95
+        },
+        "Science": {
+          "t1": 31,
+          "t2": 39,
+          "ft": 74
+        },
+        "Sst": {
+          "t1": 46,
+          "t2": 49,
+          "ft": 68
+        }
+      }
+    },
+    {
+      "session": "2025-26",
       "regNo": "1700",
       "roll": "1101",
       "name": "Mohd Hamza",
