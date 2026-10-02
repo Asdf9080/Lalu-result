@@ -1,0 +1,349 @@
+{
+  "schoolInfo": {
+    "name": "Mother Land Public School",
+    "tagline": "",
+    "address": "Village & Post Tandhera, District Muzaffarnagar",
+    "code": "REG: 2025/MZN/88"
+  },
+  "session": "2025-26",
+  "class": "1st",
+  "totalStudents": 8,
+  "students": [
+    {
+      "session": "2025-26",
+      "regNo": "1700",
+      "roll": "1101",
+      "name": "Mohd Hamza",
+      "father": "Mojd Hasan",
+      "mother": "Sariha",
+      "dob": "01/01/2010",
+      "address": "Mzn",
+      "class": "1st",
+      "sec": "A",
+      "attendedClasses": 240,
+      "totalClasses": 250,
+      "attendance": "240/250",
+      "marks": {
+        "Hindi": {
+          "t1": 43,
+          "t2": 35,
+          "ft": 85
+        },
+        "English": {
+          "t1": 46,
+          "t2": 48,
+          "ft": 76
+        },
+        "Math": {
+          "t1": 25,
+          "t2": 49,
+          "ft": 85
+        },
+        "Science": {
+          "t1": 31,
+          "t2": 38,
+          "ft": 76
+        },
+        "Sst": {
+          "t1": 45,
+          "t2": 41,
+          "ft": 85
+        }
+      }
+    },
+    {
+      "session": "2025-26",
+      "regNo": "1701",
+      "roll": "1102",
+      "name": "Akhald",
+      "father": "Aslam",
+      "mother": "Mehraj",
+      "dob": "01/01/2010",
+      "address": "Mzn",
+      "class": "1st",
+      "sec": "A",
+      "attendedClasses": 240,
+      "totalClasses": 250,
+      "attendance": "240/250",
+      "marks": {
+        "Hindi": {
+          "t1": 49,
+          "t2": 26,
+          "ft": 95
+        },
+        "English": {
+          "t1": 47,
+          "t2": 48,
+          "ft": 85
+        },
+        "Math": {
+          "t1": 34,
+          "t2": 42,
+          "ft": 95
+        },
+        "Science": {
+          "t1": 31,
+          "t2": 39,
+          "ft": 74
+        },
+        "Sst": {
+          "t1": 46,
+          "t2": 49,
+          "ft": 68
+        }
+      }
+    },
+    {
+      "session": "2025-26",
+      "regNo": "1702",
+      "roll": "1103",
+      "name": "Rajib",
+      "father": "Rafi",
+      "mother": "Julekha",
+      "dob": "01/01/2010",
+      "address": "Mzn",
+      "class": "1st",
+      "sec": "A",
+      "attendedClasses": 240,
+      "totalClasses": 250,
+      "attendance": "240/250",
+      "marks": {
+        "Hindi": {
+          "t1": 48,
+          "t2": 29,
+          "ft": 87
+        },
+        "English": {
+          "t1": 42,
+          "t2": 46,
+          "ft": 68
+        },
+        "Math": {
+          "t1": 42,
+          "t2": 48,
+          "ft": 85
+        },
+        "Science": {
+          "t1": 38,
+          "t2": 37,
+          "ft": 78
+        },
+        "Sst": {
+          "t1": 49,
+          "t2": 46,
+          "ft": 54
+        }
+      }
+    },
+    {
+      "session": "2025-26",
+      "regNo": "1703",
+      "roll": "1104",
+      "name": "Suheab",
+      "father": "Razi",
+      "mother": "Adeba",
+      "dob": "01/01/2010",
+      "address": "Mzn",
+      "class": "1st",
+      "sec": "A",
+      "attendedClasses": 240,
+      "totalClasses": 250,
+      "attendance": "240/250",
+      "marks": {
+        "Hindi": {
+          "t1": 47,
+          "t2": 39,
+          "ft": 59
+        },
+        "English": {
+          "t1": 37,
+          "t2": 49,
+          "ft": 98
+        },
+        "Math": {
+          "t1": 49,
+          "t2": 48,
+          "ft": 86
+        },
+        "Science": {
+          "t1": 34,
+          "t2": 34,
+          "ft": 75
+        },
+        "Sst": {
+          "t1": 46,
+          "t2": 48,
+          "ft": 85
+        }
+      }
+    },
+    {
+      "session": "2025-26",
+      "regNo": "1704",
+      "roll": "1105",
+      "name": "Suhel",
+      "father": "Salman",
+      "mother": "Kamrunisha",
+      "dob": "01/01/2010",
+      "address": "Mzn",
+      "class": "1st",
+      "sec": "A",
+      "attendedClasses": 240,
+      "totalClasses": 250,
+      "attendance": "240/250",
+      "marks": {
+        "Hindi": {
+          "t1": 46,
+          "t2": 35,
+          "ft": 85
+        },
+        "English": {
+          "t1": 39,
+          "t2": 43,
+          "ft": 65
+        },
+        "Math": {
+          "t1": 29,
+          "t2": 47,
+          "ft": 84
+        },
+        "Science": {
+          "t1": 39,
+          "t2": 35,
+          "ft": 74
+        },
+        "Sst": {
+          "t1": 43,
+          "t2": 42,
+          "ft": 85
+        }
+      }
+    },
+    {
+      "session": "2025-26",
+      "regNo": "1705",
+      "roll": "1106",
+      "name": "Sonu",
+      "father": "Suleman",
+      "mother": "Anjunniaa",
+      "dob": "01/01/2010",
+      "address": "Mzn",
+      "class": "1st",
+      "sec": "A",
+      "attendedClasses": 240,
+      "totalClasses": 250,
+      "attendance": "240/250",
+      "marks": {
+        "Hindi": {
+          "t1": 46,
+          "t2": 49,
+          "ft": 76
+        },
+        "English": {
+          "t1": 41,
+          "t2": 47,
+          "ft": 85
+        },
+        "Math": {
+          "t1": 47,
+          "t2": 42,
+          "ft": 85
+        },
+        "Science": {
+          "t1": 38,
+          "t2": 32,
+          "ft": 78
+        },
+        "Sst": {
+          "t1": 41,
+          "t2": 48,
+          "ft": 65
+        }
+      }
+    },
+    {
+      "session": "2025-26",
+      "regNo": "1706",
+      "roll": "1107",
+      "name": "Sadik",
+      "father": "Ahanwaz",
+      "mother": "Sejad",
+      "dob": "01/01/2010",
+      "address": "Mzn",
+      "class": "1st",
+      "sec": "A",
+      "attendedClasses": 240,
+      "totalClasses": 250,
+      "attendance": "240/250",
+      "marks": {
+        "Hindi": {
+          "t1": 42,
+          "t2": 28,
+          "ft": 85
+        },
+        "English": {
+          "t1": 48,
+          "t2": 42,
+          "ft": 75
+        },
+        "Math": {
+          "t1": 31,
+          "t2": 41,
+          "ft": 48
+        },
+        "Science": {
+          "t1": 37,
+          "t2": 37,
+          "ft": 79
+        },
+        "Sst": {
+          "t1": 47,
+          "t2": 45,
+          "ft": 54
+        }
+      }
+    },
+    {
+      "session": "2025-26",
+      "regNo": "1707",
+      "roll": "1108",
+      "name": "Aalam",
+      "father": "Asma",
+      "mother": "Subhani",
+      "dob": "01/01/2010",
+      "address": "Mzn",
+      "class": "1st",
+      "sec": "A",
+      "attendedClasses": 240,
+      "totalClasses": 250,
+      "attendance": "240/250",
+      "marks": {
+        "Hindi": {
+          "t1": 42,
+          "t2": 29,
+          "ft": 52
+        },
+        "English": {
+          "t1": 45,
+          "t2": 48,
+          "ft": 85
+        },
+        "Math": {
+          "t1": 41,
+          "t2": 48,
+          "ft": 78
+        },
+        "Science": {
+          "t1": 34,
+          "t2": 38,
+          "ft": 78
+        },
+        "Sst": {
+          "t1": 45,
+          "t2": 46,
+          "ft": 68
+        }
+      }
+    }
+  ]
+}
